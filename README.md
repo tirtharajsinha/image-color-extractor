@@ -20,7 +20,7 @@
 3. Run `pip install -r requirements.txt` to install all the dependencies.
 4. Open any of the Ipython Notebooks.
 5. Replace the value of `path` variable in 1st cell of .ipynb files with the path of a image from your local workspace.
-6. Now you'r ready to go.
+6. Now you're ready to go.
 7. Run all the cells.
 8. The dominant color will be displayed below the last cell for the image you set up in the path variable.
 9. Now you can play with the parameters to get optimal result.
